@@ -1,0 +1,92 @@
+{
+    "music": [
+        {
+            "title": "Song 1",
+            "artist": "Viktor Viking",
+            "album": "Album 1",
+            "genre": "Norse",
+            "publicisedYear": 2020,
+            "image": "https://example.com/image1.jpg"
+        },
+        {
+            "title": "Song 2",
+            "artist": "Orange Orangutang",
+            "album": "Album 1",
+            "genre": "Blues",
+            "publicisedYear": 2021,
+            "image": "https://example.com/image1.jpg"
+        },
+        {
+            "title": "Song 3",
+            "artist": "Blue Blues",
+            "album": "Album 1",
+            "genre": "Blues",
+            "publicisedYear": 2022,
+            "image": "https://example.com/image1.jpg"
+        },
+        {
+            "title": "Song 4",
+            "artist": "Jazzy Jacob",
+            "album": "Album 1",
+            "genre": "Jazz",
+            "publicisedYear": 2023,
+            "image": "https://example.com/image1.jpg"
+        },
+        {
+            "title": "Song 5",
+            "artist": "David Dans",
+            "album": "Album 1",
+            "genre": "Blues",
+            "publicisedYear": 2024,
+            "image": "https://example.com/image1.jpg"
+        },
+        {
+            "title": "Song 6",
+            "artist": "Kanon Kalle",
+            "album": "Album 1",
+            "genre": "Jazz",
+            "publicisedYear": 2025,
+            "image": "https://example.com/image1.jpg"
+        },
+        {
+            "title": "Song 7",
+            "artist": "Jens Jaeger",
+            "album": "Album 1",
+            "genre": "Jazz",
+            "publicisedYear": 2019,
+            "image": "https://example.com/image1.jpg"
+        },
+        {
+            "title": "Song 8",
+            "artist": "Janet Jackson",
+            "album": "Album 1",
+            "genre": "Rock",
+            "publicisedYear": 2018,
+            "image": "https://example.com/image1.jpg"
+        },
+        {
+            "title": "Sången om batongen",
+            "artist": "Johnny Batong",
+            "album": "Album 1",
+            "genre": "Rock",
+            "publicisedYear": 2018,
+            "image": "https://example.com/image1.jpg"
+        },
+        {
+            "title": "Batången Sången",
+            "artist": "Johnny Batong",
+            "album": "Album 2",
+            "genre": "Rock",
+            "publicisedYear": 2019,
+            "image": "https://example.com/image1.jpg"
+        },
+        {
+            "title": "Johnnys RockNRoll",
+            "artist": "Johnny Batong",
+            "album": "Album 3",
+            "genre": "Rock",
+            "publicisedYear": 2024,
+            "image": "https://example.com/image1.jpg"
+        }
+    ]
+}
