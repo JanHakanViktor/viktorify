@@ -1,92 +1,81 @@
 {
     "music": [
         {
-            "title": "Song 1",
+            "title": "Norse Folk Music",
             "artist": "Viktor Viking",
-            "album": "Album 1",
             "genre": "Norse",
             "publicisedYear": 2020,
-            "image": "https://example.com/image1.jpg"
+            "image": "assets/viking.png"
         },
         {
-            "title": "Song 2",
+            "title": "Yellow Sun",
             "artist": "Orange Orangutang",
-            "album": "Album 1",
             "genre": "Blues",
             "publicisedYear": 2021,
-            "image": "https://example.com/image1.jpg"
+            "image": "assets/orange.jpg"
         },
         {
-            "title": "Song 3",
+            "title": "The Song",
             "artist": "Blue Blues",
-            "album": "Album 1",
             "genre": "Blues",
             "publicisedYear": 2022,
-            "image": "https://example.com/image1.jpg"
+            "image": "assets/random3.jpg"
         },
         {
-            "title": "Song 4",
+            "title": "Newyork Haze",
             "artist": "Jazzy Jacob",
-            "album": "Album 1",
             "genre": "Jazz",
             "publicisedYear": 2023,
-            "image": "https://example.com/image1.jpg"
+            "image": "assets/random1.jpg"
         },
         {
-            "title": "Song 5",
+            "title": "Danskungen",
             "artist": "David Dans",
-            "album": "Album 1",
             "genre": "Blues",
             "publicisedYear": 2024,
-            "image": "https://example.com/image1.jpg"
+            "image": "assets/davidDans.png"
         },
         {
-            "title": "Song 6",
+            "title": "Afterski med Kalle",
             "artist": "Kanon Kalle",
-            "album": "Album 1",
             "genre": "Jazz",
             "publicisedYear": 2025,
-            "image": "https://example.com/image1.jpg"
+            "image": "assets/random2.jpg"
         },
         {
-            "title": "Song 7",
+            "title": "Jaeger is life",
             "artist": "Jens Jaeger",
-            "album": "Album 1",
             "genre": "Jazz",
             "publicisedYear": 2019,
-            "image": "https://example.com/image1.jpg"
+            "image": "assets/jensJ.png"
         },
         {
-            "title": "Song 8",
+            "title": "Jackson Jackan",
             "artist": "Janet Jackson",
-            "album": "Album 1",
             "genre": "Rock",
             "publicisedYear": 2018,
-            "image": "https://example.com/image1.jpg"
+            "image": "assets/jackan.png"
         },
         {
-            "title": "Sången om batongen",
+            "title": "Sången Om Batongen",
             "artist": "Johnny Batong",
-            "album": "Album 1",
             "genre": "Rock",
             "publicisedYear": 2018,
-            "image": "https://example.com/image1.jpg"
+            "image": "assets/johnnyBatongSong.png"
         },
         {
             "title": "Batången Sången",
             "artist": "Johnny Batong",
-            "album": "Album 2",
             "genre": "Rock",
             "publicisedYear": 2019,
-            "image": "https://example.com/image1.jpg"
+            "image": "assets/johnnyBatong0.png"
         },
         {
             "title": "Johnnys RockNRoll",
             "artist": "Johnny Batong",
-            "album": "Album 3",
             "genre": "Rock",
             "publicisedYear": 2024,
-            "image": "https://example.com/image1.jpg"
+            "image": "assets/johnnyRock.png"
         }
     ]
 }
