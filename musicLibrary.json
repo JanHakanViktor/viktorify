@@ -5,77 +5,88 @@
             "artist": "Viktor Viking",
             "genre": "Norse",
             "publicisedYear": 2020,
-            "image": "assets/viking.png"
+            "image": "assets/viking.png",
+            "favorite": false
         },
         {
             "title": "Yellow Sun",
             "artist": "Orange Orangutang",
             "genre": "Blues",
             "publicisedYear": 2021,
-            "image": "assets/orange.jpg"
+            "image": "assets/orange.jpg",
+            "favorite": false
         },
         {
             "title": "The Song",
             "artist": "Blue Blues",
             "genre": "Blues",
             "publicisedYear": 2022,
-            "image": "assets/random3.jpg"
+            "image": "assets/random3.jpg",
+            "favorite": false
         },
         {
             "title": "Newyork Haze",
             "artist": "Jazzy Jacob",
             "genre": "Jazz",
             "publicisedYear": 2023,
-            "image": "assets/random1.jpg"
+            "image": "assets/random1.jpg",
+            "favorite": false
         },
         {
             "title": "Danskungen",
             "artist": "David Dans",
             "genre": "Blues",
             "publicisedYear": 2024,
-            "image": "assets/davidDans.png"
+            "image": "assets/davidDans.png",
+            "favorite": false
         },
         {
             "title": "Afterski med Kalle",
             "artist": "Kanon Kalle",
             "genre": "Jazz",
             "publicisedYear": 2025,
-            "image": "assets/random2.jpg"
+            "image": "assets/random2.jpg",
+            "favorite": false
         },
         {
             "title": "Jaeger is life",
             "artist": "Jens Jaeger",
             "genre": "Jazz",
             "publicisedYear": 2019,
-            "image": "assets/jensJ.png"
+            "image": "assets/jensJ.png",
+            "favorite": false
         },
         {
             "title": "Jackson Jackan",
             "artist": "Janet Jackson",
             "genre": "Rock",
             "publicisedYear": 2018,
-            "image": "assets/jackan.png"
+            "image": "assets/jackan.png",
+            "favorite": false
         },
         {
             "title": "Sången Om Batongen",
             "artist": "Johnny Batong",
             "genre": "Rock",
             "publicisedYear": 2018,
-            "image": "assets/johnnyBatongSong.png"
+            "image": "assets/johnnyBatongSong.png",
+            "favorite": false
         },
         {
             "title": "Batången Sången",
             "artist": "Johnny Batong",
             "genre": "Rock",
             "publicisedYear": 2019,
-            "image": "assets/johnnyBatong0.png"
+            "image": "assets/johnnyBatong0.png",
+            "favorite": false
         },
         {
             "title": "Johnnys RockNRoll",
             "artist": "Johnny Batong",
             "genre": "Rock",
             "publicisedYear": 2024,
-            "image": "assets/johnnyRock.png"
+            "image": "assets/johnnyRock.png",
+            "favorite": false
         }
     ]
 }
