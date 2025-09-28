@@ -9,7 +9,7 @@ function getFavoriteSongs() {
 function createSongDiv(song, isFavoritePage, onFavoriteToggle) {
   const songDiv = document.createElement("div");
   songDiv.className = "songDiv";
-  songDiv.textContent = `${song.title} by ${song.artist}`;
+  songDiv.textContent = `${song.title}`;
 
   const albumCover = document.createElement("img");
   albumCover.src = song.image;
@@ -18,7 +18,27 @@ function createSongDiv(song, isFavoritePage, onFavoriteToggle) {
 
   const button = document.createElement("button");
   if (isFavoritePage) {
-    button.textContent = "Remove from favorites";
+    button.textContent = "☆"; 
+    button.style.fontSize = "24px";
+    button.style.color = "red";
+    button.style.background = "none";
+    button.style.border = "none";
+    button.style.cursor = "pointer";
+    button.style.display = "flex";
+    button.style.justifyContent = "flex-start";
+    button.style.alignItems = "center";
+    button.style.gap = "5px";
+    button.style.padding = "5px 10px";
+    button.style.border = "none";
+    button.title = "Remove from favorites";
+    button.onmouseover = () => {
+      button.style.transform = "scale(1.5)";
+      button.style.transition = "transform 0.2s";
+    };
+    button.onmouseout = () => {
+      button.style.transform = "scale(1.0)";
+    };
+    
   } else {
     const favoriteTitles = getFavoriteSongs();
     if (favoriteTitles.includes(song.title)) {
@@ -26,8 +46,36 @@ function createSongDiv(song, isFavoritePage, onFavoriteToggle) {
       button.disabled = true;
       button.style.backgroundColor = "lightgray";
       button.style.cursor = "not-allowed";
+      button.style.color = "darkgray";
+      button.style.display = "flex";
+      button.style.justifyContent = "flex-start";
+      button.style.alignItems = "center";
+      button.style.gap = "5px";
+      button.style.fontSize = "16px";
+      button.style.padding = "5px 10px";
+      button.style.border = "none";
+
     } else {
-      button.textContent = "Mark as favorite";
+      button.textContent = "★";
+      button.style.fontSize = "24px";
+      button.style.color = "gold";
+      button.style.background = "none";
+      button.style.border = "none";
+      button.style.cursor = "pointer";
+      button.style.display = "flex";
+      button.style.justifyContent = "flex-start";
+      button.style.alignItems = "center";
+      button.style.gap = "5px";
+      button.style.padding = "5px 10px";
+      button.style.border = "none";
+      button.title = "Add to favorites";
+      button.onmouseover = () => {
+        button.style.transform = "scale(1.5)";
+        button.style.transition = "transform 0.2s";
+      };
+      button.onmouseout = () => {
+        button.style.transform = "scale(1.0)";
+      };
     }
   }
   button.onclick = onFavoriteToggle;
